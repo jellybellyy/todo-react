@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+#message {
+  height: 30px;
+}
+
+.done {
+  color: rgb(169, 168, 168);
+}
+
+.error {
+  color: red;
+}
